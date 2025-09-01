@@ -27,6 +27,14 @@ du -h --max-depth=1
 df -h
 ```
 
+## GIT
+
+> Recursively Update submdole.
+
+```console
+git submodule update --remote --recursive
+```
+
 ## CMake
 
 * Print variables of stuff
